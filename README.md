@@ -1,8 +1,8 @@
-# Health Management System  ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+# Healthy programer  ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 created a program for real life problem to keep remind you to do specific tasks to keep you healthy and help you to stay fit. Program will play mp3 files assigned to specific tasks using pygame on loop untill you do that task and update your status to stop the alarm. Program also keep log of your task for you to checks what you do at what time.
 You may notice this file contains a scenario. The reason for that is just to develop your interest in the problems So, let me give a brief introduction of the scenario here. ;)
 
-## scenario
+## Scenario
 Assume that a programmer works at the office from 9am-5 pm. We have to take care of his health and remind him three things,
 
 1. To drink a total of 3.5-liter water after some time interval between 9-5 pm.(ever 40 min)
